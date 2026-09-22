@@ -111,12 +111,12 @@ Open settings.json and fill in these fields:
 
 ```json
 "bot-account": {
-  "username": "YourBotUsername"
+  "username": "adil1234"
 }
 
 "server": {
-  "ip": "your.server.ip",
-  "port": 25565
+  "ip": "Survivalsmp1234-UEmt.aternos.me",
+  "port": 57107
 }
 
 "utils": {
