@@ -110,13 +110,13 @@ networks.
 Open settings.json and fill in these fields:
 
 ```json
-"bot-account": {
-  "username": "YourBotUsername"
+"bot-account": {12344
+  "username": "adilbhai1234"
 }
 
 "server": {
-  "ip": "your.server.ip",
-  "port": 25565
+  "ip": "Survivalsmp1234-UEmt.aternos.me",
+  "port": 57107
 }
 
 "utils": {
